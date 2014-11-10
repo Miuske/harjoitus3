@@ -6,4 +6,6 @@
 		- löytämään kirjastosta etsimäsi kirjat helpommin
 		- opettajien live seuranta
 		
-###2. jotain
+###2. Keskeisimmät käyttötapaukset olisivat huoneiden, oppimismateriaalien
+	ja opettajien paikannus kampuksella. Nämä ominaisuudet helpottaisivaat
+	sekä oppilaitten, opettajien sekä vierailijoiden elämää kampuksella.
