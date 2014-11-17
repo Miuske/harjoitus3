@@ -1,3 +1,5 @@
+Tehtävä on tehty yhdessä tunnilla, vaikka on palautettu vain yhden toimesta
+
 ## Johdanto
 
 * Ajanvarausjärjestelmä
